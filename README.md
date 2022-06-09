@@ -1,2 +1,2 @@
 # IoT-introduction-
-Overview of IoT, DA, ML
+In this document we discuss an overview of IoT, DA, ML
